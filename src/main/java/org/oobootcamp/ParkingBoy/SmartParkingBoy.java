@@ -13,7 +13,7 @@ public class SmartParkingBoy extends ParkingBoy{
     }
 
     @Override
-    public Ticket ParkCar(Car car) throws Exception {
+    public Ticket ParkCar(Car car) throws ParkingLotFullException {
         var parkingLot = GetMostSpacerParkingLot();
         if(parkingLot != null)
         {

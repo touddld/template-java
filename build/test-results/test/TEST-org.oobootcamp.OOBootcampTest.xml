@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.oobootcamp.OOBootcampTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-05T08:08:48" hostname="XiangtiandeMacBook-Pro.local" time="0.004">
+<testsuite name="org.oobootcamp.OOBootcampTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-05T08:47:52" hostname="XiangtiandeMacBook-Pro.local" time="0.005">
   <properties/>
-  <testcase name="should_welcome_to_oo_bootcamp()" classname="org.oobootcamp.OOBootcampTest" time="0.004"/>
+  <testcase name="should_welcome_to_oo_bootcamp()" classname="org.oobootcamp.OOBootcampTest" time="0.005"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

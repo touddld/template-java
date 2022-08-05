@@ -14,7 +14,7 @@ public class GraduateParkingBoy extends ParkingBoy {
     }
 
     @Override
-    public Ticket ParkCar(Car car) throws Exception{
+    public Ticket ParkCar(Car car) throws ParkingLotFullException{
         for (var parkingLot:parkingLotList) {
             if(!parkingLot.IsFull())
             {
